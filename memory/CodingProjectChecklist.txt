@@ -1,0 +1,18 @@
+Coding Project Checklist: 
+
+1. Navigate to project folder and create new virtual environment: python -m venv envName
+
+2. Activate the venv: .envName\Scripts\activate
+
+3. Select the venv as the python interpreter:
+- Open the Command Palette (Ctrl + Shift + P).
+- Type and select “Python: Select Interpreter.” Then select .envName/scripts/python.exe
+
+4. Install packages in this environment
+
+5. Create a launch.json debug file to use the play button
+
+6. Deactivate with 'deactivate' in the terminal
+
+7. To save the project's dependencies in a requirements.txt file -- pip freeze > requirements.txt
+
