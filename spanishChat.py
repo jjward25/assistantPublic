@@ -69,7 +69,7 @@ class ChatSystem:
                 "So your responses should always contain (1) my message translated into Spanish, and then (2) your response, in both English and Spanish." +
                 "Your response should be no more than 180 characters.",
                 'system'
-            ),
+            )
             self.create_message(
                 "Here are the most recent previous conversations for context:\n" + 
                 self.past_chats_context,

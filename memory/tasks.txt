@@ -1,26 +1,17 @@
 {
   "open_tasks": [
     {
-      "task_name": "Update Portfolio",
-      "project": "Job Search",
-      "create_date": "2025-02-06",
-      "due_date": "No due date",
-      "complete_date": null,
-      "description": "Condense to one page and add new chatbots",
-      "relevant_links": []
-    },
-    {
-      "task_name": "Respond to Lane and Itamar",
-      "project": "Life",
+      "task_name": "Practice Spanish",
+      "project": "Spanish",
       "create_date": "2025-02-07",
       "due_date": "No due date",
-      "complete_date": "",
+      "complete_date": null,
       "description": "No description provided",
       "relevant_links": []
     },
     {
-      "task_name": "Practice Spanish",
-      "project": "Spanish",
+      "task_name": "GTM Bot",
+      "project": "Learning",
       "create_date": "2025-02-07",
       "due_date": "No due date",
       "complete_date": null,
